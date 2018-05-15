@@ -1,0 +1,24 @@
+html {
+  font-size:14px;
+}
+
+body {
+  font-family: "Quicksand", -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  background:#f8f8f8;
+}
+
+.navbar{
+    -webkit-box-shadow:0 4px 4px 0 rgba(23,23,23,.06);
+    -moz-box-shadow:0 4px 4px 0 rgba(23,23,23,.06);
+    box-shadow:0 4px 4px 0 rgba(23,23,23,.06);
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:#333;
+}
+
+.content-wrapper{
+    padding-top:75px;
+}
